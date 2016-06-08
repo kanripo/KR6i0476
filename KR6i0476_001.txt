@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:36.598910
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:43
 #+TITLE: 佛說八大人覺經
 #+PROPERTY: CBETA_ID T17n0779
 #+PROPERTY: ID KR6i0476
